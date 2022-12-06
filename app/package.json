@@ -1,7 +1,11 @@
 {
-  "name": "my-react-app",
+  "name": "order_burger",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Alice Nguyen",
+    "email": "hanhnguyen.learning@gmail.com"
+  },
   "homepage": "https://HanhNguyen-0101.github.io/order_burger/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
